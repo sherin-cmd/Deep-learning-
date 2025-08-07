@@ -32,8 +32,8 @@ plt.grid(True)
 plt.show()
 
 Output:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c520564-83dd-4bce-b379-83cd3514b686" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73f2053d-79a0-47d3-a1ea-42e1f2131c12" />
 
 
 
